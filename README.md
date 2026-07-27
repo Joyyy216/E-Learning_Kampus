@@ -12,7 +12,7 @@
 
 | Login Screen | Home Screen | Feature Screen |
 |:---:|:---:|:---:|
-| ![Login](assets/screenshots/login.jpeg) | ![Home](assets/screenshots/home.jpeg) | ![Feature](assets/screenshots/feature.jpeg) |
+| ![Login](assets/login.jpeg) | ![Home](assets/home.jpeg) | ![Feature](assets/feature.jpeg) |
 
 ---
 
