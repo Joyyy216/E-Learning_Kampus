@@ -21,7 +21,12 @@
         "backgroundColor": "#1F3B73"
       },
       "edgeToEdgeEnabled": true,
-      "permissions": ["READ_EXTERNAL_STORAGE", "CAMERA"]
+      "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.joyyy21.ELearningKampus"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -33,6 +38,11 @@
           "photosPermission": "Aplikasi butuh akses galeri untuk mengunggah foto tugas."
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d320dc56-7b1c-46bd-b355-8e860a7985d2"
+      }
+    }
   }
 }
